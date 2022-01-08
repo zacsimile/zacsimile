@@ -1,4 +1,4 @@
-### Howdy, 👋 I'm Zach (@zacsimile)
+### Howdy 🤠, I'm Zach (@zacsimile)
 
 I'm a Biomedical Engineering Ph.D. candidate in the [Bewersdorf](https://www.bewersdorflab.org/) and [Baddeley](https://unidirectory.auckland.ac.nz/profile/d-baddeley) labs, where I develop tools to study the nanoscale structure of subcellular membranes.
 
